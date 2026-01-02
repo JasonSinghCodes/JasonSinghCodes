@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @JasonSinghCodes
 - 👀 I’m interested in Cyber Security and Crypto
 - 🌱 I’m currently learning python and network plus
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking to collaborate on ... changing the cyber security world.
 - 📫 How to reach me ...
 - ⚡ Fun fact: I am a big Bach fan
 
