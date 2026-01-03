@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @JasonSinghCodes
-- 👀 I’m interested in Cyber Security and Crypto
+- 👀 I’m interested in Cyber Security and Crypto also bug bounty!
 - 🌱 I’m currently learning python and network plus
 - 💞️ I’m looking to collaborate on ... changing the cyber security world.
 - 📫 How to reach me ...
